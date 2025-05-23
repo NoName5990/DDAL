@@ -12,10 +12,9 @@
 </div>
 
 ### Highlight
-- 🌈 we present a voxel-centric online active learning baseline that efficiently reduces the labeling cost of enormous point clouds and effectively facilitates learning with a limited budget.
-- ⚖️ we introduce a novel label acquisition strategy, voxel confusion degree (VCD), that requires 1000× fewer annotations while reaching a close segmentation performance to that of the fully supervised counterpart. 
-- 🚀 `Annotator` is generally applicable and works for different network architectures (e.g., MinkNet, SPVCNN, etc.), in distribution or out of distribution setting (i.e., AL, ASFDA, and ADA), and simulation-to-real
-(SynLiDAR→SemanticKITTI/SemanticPOSS) and real-to-real (SemanticKITTI→nuScenes and nuScenes→SemanticKITTI) scenarios with consistent performance gains
+- 🌈 We propose a domain discrepancy-aware active learning method, i.e. DDAL, for cross-domain point cloud semantic segmentation. Extensive experiments demonstrate that DDAL outperforms state-of-the-art approaches by a clear margin in synthetic-to-real and real-to-real benchmark.
+- ⚖️ We propose a source-prototype-guided query strategy to measure the domain discrepancy based on the distance between target points and the centers of source categories representative target points are identified based on the measurement of domain discrepancy and the uncertainty predicted with the segmentation model. 
+- 🚀 A balanced mixing technique, which adapts point cloud mixing to the ADA framework, is proposed and incorporated into the active learning process. This technique combines newly annotated target data with randomly selected source data at matching scales through mixed sampling, enabling more reliable domain-invariant feature learning.
 
 
 ## Usage
