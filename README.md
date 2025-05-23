@@ -29,22 +29,17 @@ Please see [DATA.md](docs/DATA.md)
 Please see [TRAIN_VAL.md](docs/TRAIN_VAL.md)
 
 
-## Citation
+<!-- ## Citation
 If you find this project useful in your research, please consider citing:
 ```latex
-@inproceedings{xie2023annotator,
- author = {Binhui Xie, Shuang Li, Qingju Guo, Chi Harold Liu, Xinjing Cheng},
- booktitle = {Advances in Neural Information Processing Systems},
- title = {Annotator: An Generic Active Learning Baseline for LiDAR Semantic Segmentation},
- year = {2023}
-}
+bib
 
-```
+``` -->
 
 ## Acknowledgements
-This project is based on the following projects: [OpenPCDet](https://github.com/open-mmlab/OpenPCDet), [PCSeg](https://github.com/PJLab-ADG/PCSeg), [LaserMix](https://github.com/ldkong1205/LaserMix) and [SynLiDAR](https://github.com/xiaoaoran/SynLiDAR). We thank their authors for making the source code publicly available.
+This project is based on the [Annotator](https://github.com/BIT-DA/Annotator), we thank the author for making the source code publicly available.
 
 
 ## Contact
 
-For help and issues associated with Annotator, or reporting a bug, please open a [[GitHub Issues](https://github.com/BIT-DA/Annotator/issues/new)], or feel free to contact [binhuixie@bit.edu.cn](mailto:binhuixie@bit.edu.cn).
+For help and issues associated with Annotator, or reporting a bug, please open a [[GitHub Issues](https://github.com/NoName5990/DDAL/issues/new)], or feel free to contact `S220201058@stu.cqupt.edu.cn`.
