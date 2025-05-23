@@ -7,7 +7,7 @@
 [Zongyi Xu](https://scholar.google.com/citations?user=PUseiVAAAAAJ), [Jixiao Liu](https://github.com/NoName5990/), [Shanshan Zhao](https://scholar.google.com.hk/citations?hl=zh-CN&user=TFp72vEAAAAJ), [Zhongpeng Lang](https://openreview.net/profile?id=~Zhongpeng_Lang1), [Qianni Zhang](https://scholar.google.com.hk/citations?user=XR6C9BoAAAAJ&hl), [Weisheng Li](https://scholar.google.com.hk/citations?user=M17E3HEAAAAJ&hl) and [Xinbo Gao](https://scholar.google.com.hk/citations?user=VZVTOOIAAAAJ)
 
 
-<img alt="image" src="docs/figs/pipeline.png" width="80%" />
+<img alt="image" src="docs/figs/pipeline.png" width="65%" />
 
 </div>
 
